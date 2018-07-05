@@ -1,10 +1,7 @@
 h3. Nodepad
 
-This is a Node notepad, written for a tutorial series on "DailyJS":http://dailyjs.com.
+This is a Node notepad
 
-h3. Updates
-
-Follow the series on "DailyJS":http://dailyjs.com, "@dailyjs":http://twitter.com/dailyjs, or "@alex_young":http://twitter.com/alex_young.
 
 h3. Dependencies
 
@@ -37,12 +34,6 @@ npm install
 
 node app.js
 </pre>
-
-h3. Contributions
-
-* "luebken":https://github.com/luebken
-* "eirikurn":https://github.com/eirikurn
-* "@francoislaberge":http://twitter.com/francoislaberge
 
 h3. License (GPL)
 
